@@ -2943,8 +2943,8 @@ fieldset:disabled .btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #2b90d9;
-  border-color: #2b90d9;
+  background-color: #22ABE3;
+  border-color: #22ABE3;
 }
 
 .btn-primary:hover {
@@ -12120,10 +12120,10 @@ a.text-hover-dark:focus, a.text-hover-dark:hover {
   position: absolute;
   bottom: -2rem;
   left: -2rem;
-  background: linear-gradient(45deg, #2b90d9, #2074b1);
+  background: linear-gradient(45deg, #F68733, #a54500);
   border-radius: 0.25rem;
   z-index: -1;
-  opacity: 0.5;
+  opacity: 0.75;
 }
 
 .img-gradient-left::before, .img-gradient-right::before {
@@ -12176,7 +12176,7 @@ a.text-hover-dark:focus, a.text-hover-dark:hover {
 }
 
 .table-price {
-  font-size: 3rem;
+  font-size: 24px;
   position: relative;
   display: inline-block;
   line-height: 1;
@@ -12184,7 +12184,7 @@ a.text-hover-dark:focus, a.text-hover-dark:hover {
 
 @media (min-width: 992px) {
   .table-price {
-    font-size: 4rem !important;
+    font-size: 24px !important;
   }
 }
 
